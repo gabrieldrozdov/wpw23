@@ -1,0 +1,674 @@
+[
+  {
+    "term": "HTML",
+    "type": "concepts",
+    "desc": "HyperText Markup Language",
+    "source": "html.html",
+    "active": 1
+  },
+  {
+    "term": "HTML Elements",
+    "type": "concepts",
+    "desc": "HTML tags",
+    "source": "html-elements.html",
+    "active": 1
+  },
+  {
+    "term": "HTML Attributes",
+    "type": "concepts",
+    "desc": "Embedding data into an HTML element",
+    "source": "html-attributes.html",
+    "active": 1
+  },
+  {
+    "term": "Semantic HTML",
+    "type": "concepts",
+    "desc": "Element names that describe their content",
+    "source": "semantic-html.html",
+    "active": 1
+  },
+  {
+    "term": "Element Identifiers",
+    "type": "concepts",
+    "desc": "“id” attribute",
+    "source": "element-identifiers.html",
+    "active": 1
+  },
+  {
+    "term": "CSS",
+    "type": "concepts",
+    "desc": "Cascading Style Sheets",
+    "source": "css.html",
+    "active": 1
+  },
+  {
+    "term": "CSS Properties",
+    "type": "concepts",
+    "desc": "Styling elements",
+    "source": "css-properties.html",
+    "active": 1
+  },
+  {
+    "term": "Inline CSS",
+    "type": "concepts",
+    "desc": "CSS per element via the “style” attribute",
+    "source": "inline-css.html",
+    "active": 1
+  },
+  {
+    "term": "CSS Classes",
+    "type": "concepts",
+    "desc": "Reusing CSS properties",
+    "source": "css-classes.html",
+    "active": 1
+  },
+  {
+    "term": "Specificity",
+    "type": "concepts",
+    "desc": "Resolving conflicting CSS styles",
+    "source": "specificity.html",
+    "active": 1
+  },
+  {
+    "term": "Box Model",
+    "type": "concepts",
+    "desc": "HTML element structure and styling",
+    "source": "box-model.html",
+    "active": 1
+  },
+  {
+    "term": "Units",
+    "type": "concepts",
+    "desc": "Pixels, percent, em, viewport units (vw, vh)",
+    "source": "units.html",
+    "active": 1
+  },
+  {
+    "term": "Color Codes",
+    "type": "concepts",
+    "desc": "Hex, rgb, hsl",
+    "source": "color-codes.html",
+    "active": 1
+  },
+  {
+    "term": "JavaScript",
+    "type": "concepts",
+    "desc": "Programming language for websites",
+    "source": "javascript.html",
+    "active": 1
+  },
+  {
+    "term": "JSON",
+    "type": "concepts",
+    "desc": "JavaScript Object Notation",
+    "source": "json.html",
+    "active": ""
+  },
+  {
+    "term": "DOM",
+    "type": "concepts",
+    "desc": "Document Object Model",
+    "source": "dom.html",
+    "active": 1
+  },
+  {
+    "term": "Libraries",
+    "type": "concepts",
+    "desc": "Extending programming languages",
+    "source": "libraries.html",
+    "active": 1
+  },
+  {
+    "term": "Comments",
+    "type": "concepts",
+    "desc": "Annotating code",
+    "source": "comments.html",
+    "active": 1
+  },
+  {
+    "term": "File Paths",
+    "type": "concepts",
+    "desc": "Referencing other files",
+    "source": "file-paths.html",
+    "active": 1
+  },
+  {
+    "term": "index.html",
+    "type": "concepts",
+    "desc": "Website homepage",
+    "source": "index-html.html",
+    "active": 1
+  },
+  {
+    "term": "UI/UX",
+    "type": "concepts",
+    "desc": "User interface and experience design",
+    "source": "uiux.html",
+    "active": 1
+  },
+  {
+    "term": "p",
+    "type": "html",
+    "desc": "Paragraphs",
+    "source": "p.html",
+    "active": 1
+  },
+  {
+    "term": "h1-h6",
+    "type": "html",
+    "desc": "Headings",
+    "source": "h1-h6.html",
+    "active": 1
+  },
+  {
+    "term": "ol ul li",
+    "type": "html",
+    "desc": "Ordered and Unordered Lists",
+    "source": "ol-ul-li.html",
+    "active": 1
+  },
+  {
+    "term": "br",
+    "type": "html",
+    "desc": "Line breaks",
+    "source": "br.html",
+    "active": 1
+  },
+  {
+    "term": "strong",
+    "type": "html",
+    "desc": "Bolded text",
+    "source": "strong.html",
+    "active": 1
+  },
+  {
+    "term": "em",
+    "type": "html",
+    "desc": "Italicized text",
+    "source": "em.html",
+    "active": 1
+  },
+  {
+    "term": "a",
+    "type": "html",
+    "desc": "URL and anchor links",
+    "source": "a.html",
+    "active": 1
+  },
+  {
+    "term": "span",
+    "type": "html",
+    "desc": "Inline text",
+    "source": "span.html",
+    "active": 1
+  },
+  {
+    "term": "img",
+    "type": "html",
+    "desc": "Images",
+    "source": "img.html",
+    "active": 1
+  },
+  {
+    "term": "div",
+    "type": "html",
+    "desc": "Generic container",
+    "source": "div.html",
+    "active": 1
+  },
+  {
+    "term": "body",
+    "type": "html",
+    "desc": "Content",
+    "source": "body.html",
+    "active": 1
+  },
+  {
+    "term": "head",
+    "type": "html",
+    "desc": "Container for metadata",
+    "source": "head.html",
+    "active": 1
+  },
+  {
+    "term": "meta",
+    "type": "html",
+    "desc": "Metadata",
+    "source": "meta.html",
+    "active": 1
+  },
+  {
+    "term": "style",
+    "type": "html",
+    "desc": "Embedded CSS",
+    "source": "style.html",
+    "active": 1
+  },
+  {
+    "term": "link",
+    "type": "html",
+    "desc": "External data",
+    "source": "link.html",
+    "active": 1
+  },
+  {
+    "term": "script",
+    "type": "html",
+    "desc": "Embedded JavaScript",
+    "source": "script.html",
+    "active": 1
+  },
+  {
+    "term": "color",
+    "type": "css",
+    "desc": "Font color",
+    "source": "color.html",
+    "active": 1
+  },
+  {
+    "term": "font-size",
+    "type": "css",
+    "desc": "Font size",
+    "source": "font-size.html",
+    "active": 1
+  },
+  {
+    "term": "font-weight",
+    "type": "css",
+    "desc": "Weight or boldness",
+    "source": "font-weight.html",
+    "active": 1
+  },
+  {
+    "term": "text-align",
+    "type": "css",
+    "desc": "Text alignment and justification",
+    "source": "text-align.html",
+    "active": 1
+  },
+  {
+    "term": "line-height",
+    "type": "css",
+    "desc": "Space between lines of text (leading)",
+    "source": "line-height.html",
+    "active": 1
+  },
+  {
+    "term": "letter-spacing",
+    "type": "css",
+    "desc": "Space between letters (tracking)",
+    "source": "letter-spacing.html",
+    "active": 1
+  },
+  {
+    "term": "word-spacing",
+    "type": "css",
+    "desc": "Space between words",
+    "source": "word-spacing.html",
+    "active": 1
+  },
+  {
+    "term": "text-transform",
+    "type": "css",
+    "desc": "Uppercase, lowercase, capitalized",
+    "source": "text-transform.html",
+    "active": 1
+  },
+  {
+    "term": "text-decoration",
+    "type": "css",
+    "desc": "Underline, overline, strikethrough",
+    "source": "text-decoration.html",
+    "active": 1
+  },
+  {
+    "term": "text-shadow",
+    "type": "css",
+    "desc": "Text drop shadow",
+    "source": "text-shadow.html",
+    "active": 1
+  },
+  {
+    "term": "font-family",
+    "type": "css",
+    "desc": "Font or typeface",
+    "source": "font-family.html",
+    "active": 1
+  },
+  {
+    "term": "@font-face",
+    "type": "css",
+    "desc": "Custom fonts",
+    "source": "font-face.html",
+    "active": 1
+  },
+  {
+    "term": "box-sizing",
+    "type": "css",
+    "desc": "Calculating an element’s dimensions",
+    "source": "box-sizing.html",
+    "active": 1
+  },
+  {
+    "term": "width",
+    "type": "css",
+    "desc": "Width, min-width, max-width",
+    "source": "width.html",
+    "active": 1
+  },
+  {
+    "term": "height",
+    "type": "css",
+    "desc": "Height, min-height, max-height",
+    "source": "height.html",
+    "active": 1
+  },
+  {
+    "term": "aspect-ratio",
+    "type": "css",
+    "desc": "Proportional sizing",
+    "source": "aspect-ratio.html",
+    "active": 1
+  },
+  {
+    "term": "margin",
+    "type": "css",
+    "desc": "Space outside an element",
+    "source": "margin.html",
+    "active": 1
+  },
+  {
+    "term": "border",
+    "type": "css",
+    "desc": "Line around an element",
+    "source": "border.html",
+    "active": 1
+  },
+  {
+    "term": "border-radius",
+    "type": "css",
+    "desc": "Rounded corners",
+    "source": "border-radius.html",
+    "active": 1
+  },
+  {
+    "term": "padding",
+    "type": "css",
+    "desc": "Space inside an element",
+    "source": "padding.html",
+    "active": 1
+  },
+  {
+    "term": "background",
+    "type": "css",
+    "desc": "Background color, image, or gradient",
+    "source": "background.html",
+    "active": 1
+  },
+  {
+    "term": "box-shadow",
+    "type": "css",
+    "desc": "Drop shadow",
+    "source": "box-shadow.html",
+    "active": 1
+  },
+  {
+    "term": "opacity",
+    "type": "css",
+    "desc": "Transparency",
+    "source": "opacity.html",
+    "active": 1
+  },
+  {
+    "term": "position",
+    "type": "css",
+    "desc": "Static, relative, absolute, fixed, sticky",
+    "source": "position.html",
+    "active": 1
+  },
+  {
+    "term": "z-index",
+    "type": "css",
+    "desc": "Overlapping elements",
+    "source": "z-index.html",
+    "active": ""
+  },
+  {
+    "term": "transform",
+    "type": "css",
+    "desc": "Rotate, translate, scale, skew",
+    "source": "transform.html",
+    "active": 1
+  },
+  {
+    "term": "filter",
+    "type": "css",
+    "desc": "Blur, brightness, contrast, hue shift, and more",
+    "source": "filter.html",
+    "active": 1
+  },
+  {
+    "term": "transition",
+    "type": "css",
+    "desc": "Interpolate between values",
+    "source": "transition.html",
+    "active": 1
+  },
+  {
+    "term": ":hover :active",
+    "type": "css",
+    "desc": "Hover and active states",
+    "source": "hover-active.html",
+    "active": 1
+  },
+  {
+    "term": "cursor",
+    "type": "css",
+    "desc": "Mouse cursor on hover",
+    "source": "cursor.html",
+    "active": 1
+  },
+  {
+    "term": "@keyframes animation",
+    "type": "css",
+    "desc": "Keyframed animations",
+    "source": "keyframes-animation.html",
+    "active": 1
+  },
+  {
+    "term": "@media",
+    "type": "css",
+    "desc": "Media queries and breakpoints",
+    "source": "media.html",
+    "active": 1
+  },
+  {
+    "term": "display",
+    "type": "css",
+    "desc": "Visibility, layout, and structure",
+    "source": "display.html",
+    "active": 1
+  },
+  {
+    "term": "Flexbox",
+    "type": "css",
+    "desc": "One-dimensional layouts",
+    "source": "flexbox.html",
+    "active": 1
+  },
+  {
+    "term": "CSS Grid",
+    "type": "css",
+    "desc": "Two-dimensional layouts",
+    "source": "css-grid.html",
+    "active": 1
+  },
+  {
+    "term": "console.log()",
+    "type": "javascript",
+    "desc": "",
+    "source": "console-log.html",
+    "active": 0
+  },
+  {
+    "term": "let",
+    "type": "javascript",
+    "desc": "",
+    "source": "let.html",
+    "active": 0
+  },
+  {
+    "term": "querySelector()",
+    "type": "javascript",
+    "desc": "",
+    "source": "queryselector.html",
+    "active": 0
+  },
+  {
+    "term": "classList",
+    "type": "javascript",
+    "desc": "",
+    "source": "classlist.html",
+    "active": 0
+  },
+  {
+    "term": "style.add(), style.remove(), style.toggle()",
+    "type": "javascript",
+    "desc": "",
+    "source": "style.html",
+    "active": 0
+  },
+  {
+    "term": "dataset",
+    "type": "javascript",
+    "desc": "",
+    "source": "dataset.html",
+    "active": 0
+  },
+  {
+    "term": "innerHTML",
+    "type": "javascript",
+    "desc": "",
+    "source": "innerhtml.html",
+    "active": 0
+  },
+  {
+    "term": "innerText",
+    "type": "javascript",
+    "desc": "",
+    "source": "innertext.html",
+    "active": 0
+  },
+  {
+    "term": "addEventListener()",
+    "type": "javascript",
+    "desc": "",
+    "source": "addeventlistener.html",
+    "active": 0
+  },
+  {
+    "term": "if...else",
+    "type": "javascript",
+    "desc": "",
+    "source": "if-else.html",
+    "active": 0
+  },
+  {
+    "term": "while",
+    "type": "javascript",
+    "desc": "",
+    "source": "while.html",
+    "active": 0
+  },
+  {
+    "term": "for",
+    "type": "javascript",
+    "desc": "",
+    "source": "for.html",
+    "active": 0
+  },
+  {
+    "term": "Template Literals",
+    "type": "javascript",
+    "desc": "",
+    "source": "template-literals.html",
+    "active": 0
+  },
+  {
+    "term": "Math.random()",
+    "type": "javascript",
+    "desc": "",
+    "source": "math-random.html",
+    "active": 0
+  },
+  {
+    "term": "Math.floor(), Math.ceil(), Math.round()",
+    "type": "javascript",
+    "desc": "",
+    "source": "math-floor.html",
+    "active": 0
+  },
+  {
+    "term": "Arrays",
+    "type": "javascript",
+    "desc": "",
+    "source": "arrays.html",
+    "active": 0
+  },
+  {
+    "term": "Objects",
+    "type": "javascript",
+    "desc": "",
+    "source": "objects.html",
+    "active": 0
+  },
+  {
+    "term": "Arithmetic Operators",
+    "type": "javascript",
+    "desc": "",
+    "source": "arithmetic-operators.html",
+    "active": 0
+  },
+  {
+    "term": "Comparison Operators",
+    "type": "javascript",
+    "desc": "",
+    "source": "comparison-operators.html",
+    "active": 0
+  },
+  {
+    "term": "GitHub",
+    "type": "misc",
+    "desc": "Code repositories",
+    "source": "github.html",
+    "active": 1
+  },
+  {
+    "term": "GitHub Desktop",
+    "type": "misc",
+    "desc": "Managing code repositories",
+    "source": "github-desktop.html",
+    "active": 1
+  },
+  {
+    "term": "GitHub Pages",
+    "type": "misc",
+    "desc": "Static websites",
+    "source": "github-pages.html",
+    "active": 1
+  },
+  {
+    "term": "Visual Studio (VS) Code",
+    "type": "misc",
+    "desc": "Plain text (code) editor",
+    "source": "vscode.html",
+    "active": 1
+  },
+  {
+    "term": "Site Builders",
+    "type": "misc",
+    "desc": "",
+    "source": "site-builders.html",
+    "active": 0
+  }
+]
